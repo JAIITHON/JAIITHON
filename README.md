@@ -1,16 +1,20 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<!--
-**JAIITHON/JAIITHON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone 👾
 
-Here are some ideas to get you started:
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My name is Muhamad! 👾
+
+- 🔭 Take a look at my repositories!
+- 🌱 I’m 18 years old!
+- 👯 I’m publish paid projects for free
+- 📫 How to reach me: https://t.me/JAIITHON_Userbot
+- 📫 My telegram channel for updates: https://t.me/JAIITHON
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,python,markdown&theme=dark)](https://skills.thijs.gg)
+
+## Glad to see you here! ![visitors](https://gpvc.arturio.dev/thejmthon)
+
+### Bey 👾
